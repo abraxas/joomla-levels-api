@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/joomla-levels-api">joomla-levels-api</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/joomla-levels-api"><strong>https://abraxaslabs.tech/research/joomla-levels-api</strong></a>
+</p>
+
 
 # joomla-levels-api
 
